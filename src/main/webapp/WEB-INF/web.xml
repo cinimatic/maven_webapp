@@ -9,7 +9,7 @@
         <servlet-class>servlets.HelloWorld</servlet-class>
         <init-param>
             <param-name>name</param-name>
-            <param-value>Остап</param-value> 
+            <param-value>Сергей</param-value> 
         </init-param>
         <init-param>
             <param-name>mname</param-name> 
