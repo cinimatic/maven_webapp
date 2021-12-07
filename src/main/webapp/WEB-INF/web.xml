@@ -9,11 +9,11 @@
         <servlet-class>servlets.HelloWorld</servlet-class>
         <init-param>
             <param-name>name</param-name>
-            <param-value>Сергей</param-value> 
+            <param-value>Великий Админ/param-value> 
         </init-param>
         <init-param>
             <param-name>mname</param-name> 
-            <param-value>Анатольевич</param-value> 
+            <param-value>фвыч</param-value> 
         </init-param>
     </servlet>
     <servlet-mapping>
